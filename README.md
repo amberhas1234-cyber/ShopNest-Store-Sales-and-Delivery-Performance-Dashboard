@@ -6,6 +6,9 @@ This project presents a comprehensive business intelligence dashboard built usin
 
 The goal is to transform raw transactional data into meaningful visual insights that support data-driven decision-making.
 
+<img width="612" height="340" alt="image" src="https://github.com/user-attachments/assets/97653137-f6db-499c-9f22-9c31ed0713b4" />
+
+
 ### 🔍 Key Business Questions & Insights
 ##### 🛍️ Top Product Categories
 - Identified the top 10 categories by total sales
